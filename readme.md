@@ -1,6 +1,6 @@
 # Awesome Agent for Image Restoration and Super-Resolution
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO_NAME?style=social)
+![Stars](https://img.shields.io/github/stars/njulj/Awesome-Image-Restoration-Agent)
 
 A curated list of awesome papers, codes, and resources exploring the intersection of **Autonomous Agents / LLM Agents** for **Image Restoration**.
 
@@ -16,13 +16,19 @@ A curated list of awesome papers, codes, and resources exploring the intersectio
 ---
 
 ## Papers
-* **RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models(NIPS2024 Poster)** 
+* **RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models** 
+- **NIPS2024 Poster**
 - *Haoyu Chen ⋅ Wenbo Li ⋅ JINJIN GU ⋅ Jingjing Ren ⋅ Sixiang Chen ⋅ Tian Ye ⋅ Renjing Pei ⋅ Kaiwen Zhou ⋅ Fenglong Song ⋅ Lei Zhu*, 
 -  The Hong Kong University of Science and Technology (Guangzhou)
- [[Paper](https://neurips.cc/virtual/2024/poster/93068#:~:text=RestoreAgent)] [[project page](https://haoyuchen.com/RestoreAgent)] 
-  > *Brief 1-sentence highlight: E.g., The first comprehensive survey on LLM-based agents for low-level vision tasks.*
+ [[Paper](https://neurips.cc/virtual/2024/poster/93068#:~:text=RestoreAgent)] | [[project page](https://haoyuchen.com/RestoreAgent)] 
 
+* **An Intelligent Agentic System for Complex Image Restoration Problems**
+- **ICLR 2025**
+- *Kaiwen Zhu*, Jinjin Gu*, Zhiyuan You, Yu Qiao, Chao Dong\**
+- Shanghai Jiao Tong University
+ [[Paper](https://arxiv.org/abs/2410.17809)] | [[Project Page](https://kaiwen-zhu.github.io/research/agenticir)] | [[code](https://github.com/Kaiwen-Zhu/AgenticIR)]
 
+*
 ---
 
 ## Contributing
