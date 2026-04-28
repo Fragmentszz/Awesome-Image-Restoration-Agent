@@ -21,7 +21,7 @@ Image restoration and super-resolution have witnessed significant advancements w
 |:---:|:----:|:----:|:----:|:----:|
 |2024|NIPS|**RestoreAgent:** Autonomous Image Restoration Agent via Multimodal Large Language Models|\[[paper](https://neurips.cc/virtual/2024/poster/93068#:~:text=RestoreAgent)\]\[[project page](https://haoyuchen.com/RestoreAgent)\]|HKUST(GZ)|
 |2025|ICLR|**AgenticIR:** An Intelligent Agentic System for Complex Image Restoration Problems|\[[paper](https://arxiv.org/abs/2410.17809)\]\[[project page](https://kaiwen-zhu.github.io/research/agenticir)\]\[[code](https://github.com/Kaiwen-Zhu/AgenticIR)\]|SJTU|
-|2025|IJCV|**Multi-Agent Image Restoration**|\[[paper](https://arxiv.org/pdf/2503.09403)\]\[[project page](https://villa.jianzhang.tech/publication/200604/)\]|PKU|
+|2026|IJCV|**Multi-Agent Image Restoration**|\[[paper](https://arxiv.org/pdf/2503.09403)\]\[[project page](https://villa.jianzhang.tech/publication/200604/)\]|PKU|
 |2026|CVPR|**Hybrid Agents for Image Restoration**|\[[paper](https://arxiv.org/pdf/2503.10120)\]|USTC|
 |2026|ArXiv|**TIR-AGENT:** Training an Explorative and Efficient Agent for Image Restoration|\[[paper](https://arxiv.org/pdf/2603.27742)\]|Tsinghua Univ.|
 |2026|TIP|**IAMAgent:** Toward an Interactive and Adaptive Multi-Agent System for Image Restoration|\[[paper](https://ieeexplore.ieee.org/document/11433514)\]|HFUT|
