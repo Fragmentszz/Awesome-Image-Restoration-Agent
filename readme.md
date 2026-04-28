@@ -7,10 +7,10 @@
 A curated list of awesome papers, codes, and resources exploring the intersection of **Autonomous Agents / LLM Agents** for **Image Restoration**.
 
 ## 📑 Table of Contents
-- [Introduction](#introduction)
-- [Paper List](#paper-list)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction](##introduction)
+- [Paper List](##paper-list)
+- [Contributing](##contributing)
+- [License](##license)
 
 ## 💡 Introduction
 Image restoration and super-resolution have witnessed significant advancements with the introduction of generative models. Recently, the integration of **Autonomous Agents** and **Multi-Agent Systems (MAS)** has opened new paradigms for solving complex, real-world image degradation problems by leveraging planning, tool use, and interactive collaboration. This repository tracks the latest progress in this emerging field.
