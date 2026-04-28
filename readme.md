@@ -9,7 +9,6 @@ A curated list of awesome papers, codes, and resources exploring the intersectio
 ## 📑 Table of Contents
 - [Introduction](#introduction)
 - [Paper List](#paper-list)
-- [Related Agent Frameworks](#related-agent-frameworks)
 - [Contributing](#contributing)
 - [License](#license)
 
