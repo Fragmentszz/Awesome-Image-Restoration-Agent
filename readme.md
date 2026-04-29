@@ -11,6 +11,10 @@ A curated list of awesome papers, codes, and resources exploring the intersectio
 ## 📑 Table of Contents
 - [Introduction](##introduction)
 - [Paper List](##paper-list)
+    - [Image Retoration]
+    - [Image Editing]
+    - [Video Restoration]
+    - [Image Retouching]
 - [Contributing](##contributing)
 - [License](##license)
 
