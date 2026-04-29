@@ -42,10 +42,12 @@ Image restoration and super-resolution have witnessed significant advancements w
 
 ### Video Restoration
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
+|:---:|:----:|:----:|:----:|:----:|
 |2026|ArXiv|**VQ-Jarvis: Retrieval-Augmented Video Restoration Agent with Sharp Vision and Fast Thought**|\[[paper](https://arxiv.org/pdf/2603.22998)\]|PKU|
 
 ### Image Retouching
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
+|:---:|:----:|:----:|:----:|:----:|
 |2026|AAAI|**PerTouch**: VLM-Driven Agent for Personalized and Semantic Image Retouching|\[[paper](https://arxiv.org/pdf/2511.12998)\]\[[project page](https://auroral703.github.io/PerTouch/)\]\[[code](https://github.com/Auroral703/PerTouch)\]|NKU|
 
 ## 🤝 Contributing
