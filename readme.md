@@ -6,7 +6,7 @@
 
 A curated list of awesome papers, codes, and resources exploring the intersection of **Autonomous Agents / LLM Agents** for **Image Restoration**.
 
-*This repository now is maintained by [Lixin Wang]( 2059559391@qq.com) and [Jie Liu]( https://njulj.github.io/), feel free to contact us if you have any questions.*
+*This repository is maintained by [Lixin Wang]( 2059559391@qq.com) and [Jie Liu]( https://njulj.github.io/), feel free to contact us if you have any questions.*
 
 ## 📑 Table of Contents
 - [Introduction](##introduction)
