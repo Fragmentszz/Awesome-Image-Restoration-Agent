@@ -1,10 +1,10 @@
-# Awesome Agent for Image Restoration
+# Awesome Agent for Low-level Vision
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Stars](https://img.shields.io/github/stars/njulj/Awesome-Image-Restoration-Agent?style=social)
 ![Forks](https://img.shields.io/github/forks/njulj/Awesome-Image-Restoration-Agent?style=social)
 ![Update](https://img.shields.io/github/last-commit/njulj/Awesome-Image-Restoration-Agent)
 
-A curated list of awesome papers, codes, and resources exploring the intersection of **Autonomous Agents / LLM Agents** for **Image Restoration** and some related works.
+A curated list of awesome papers, codes, and resources exploring the intersection of **Autonomous Agents / (M)LLM Agents** for **Low-level Vision** and some related works.
 
 *This repository is maintained by [Lixin Wang]( 2059559391@qq.com) and [Jie Liu]( https://njulj.github.io/), feel free to contact us if you have any questions.*
 
