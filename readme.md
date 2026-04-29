@@ -27,8 +27,8 @@ Image restoration and super-resolution have witnessed significant advancements w
 |:---:|:----:|:----:|:----:|:----:|
 |2026|IJCV|**Multi-Agent Image Restoration**|\[[paper](https://arxiv.org/pdf/2503.09403)\]\[[project page](https://villa.jianzhang.tech/publication/200604/)\]|PKU|
 |2026|CVPR|**Hybrid Agents for Image Restoration**|\[[paper](https://arxiv.org/pdf/2503.10120)\]|USTC|
-|2026|ArXiv|**Derain-Agent: A Plug-and-Play Agent Framework for Rainy Image Restoration**|\[[paper](https://arxiv.org/pdf/2603.11866)\]|HIT|
-|2026|CVPR|**EpiAgent: An Agent-Centric System for Ancient Inscription Restoration**|\[[paper](https://arxiv.org/pdf/2604.09367)\]\[[code](https://github.com/blackprotoss/EpiAgent)\]|SEU|
+|2026|ArXiv|**Derain-Agent**: A Plug-and-Play Agent Framework for Rainy Image Restoration|\[[paper](https://arxiv.org/pdf/2603.11866)\]|HIT|
+|2026|CVPR|**EpiAgent**: An Agent-Centric System for Ancient Inscription Restoration|\[[paper](https://arxiv.org/pdf/2604.09367)\]\[[code](https://github.com/blackprotoss/EpiAgent)\]|SEU|
 |2026|ArXiv|**TIR-AGENT:** Training an Explorative and Efficient Agent for Image Restoration|\[[paper](https://arxiv.org/pdf/2603.27742)\]|THU|
 |2026|TIP|**IAMAgent:** Toward an Interactive and Adaptive Multi-Agent System for Image Restoration|\[[paper](https://ieeexplore.ieee.org/document/11433514)\]|HFUT|
 |2025|ICLR|**AgenticIR:** An Intelligent Agentic System for Complex Image Restoration Problems|\[[paper](https://arxiv.org/abs/2410.17809)\]\[[project page](https://kaiwen-zhu.github.io/research/agenticir)\]\[[code](https://github.com/Kaiwen-Zhu/AgenticIR)\]|SJTU|
@@ -37,13 +37,20 @@ Image restoration and super-resolution have witnessed significant advancements w
 ### Image Editing
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
 |:---:|:----:|:----:|:----:|:----:|
-|2026|ArXiv|**Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling**|\[[paper](https://arxiv.org/pdf/2602.09084)\]\[[project page](https://agent-banana.github.io/)\]\[[code](https://github.com/taco-group/agent-banana)\]|TAMU|
-|2026|ArXiv|**PhotoAgent: Agentic Photo Editing with Exploratory Visual Aesthetic Planning**|\[[paper](https://arxiv.org/abs/2602.22809)\]\[[project page](https://mdyao.github.io/PhotoAgent/)\]\[[code](https://github.com/mdyao/PhotoAgent)\]|MMLab, CUHK|
+|2026|ArXiv|**Agent Banana**: High-Fidelity Image Editing with Agentic Thinking and Tooling|\[[paper](https://arxiv.org/pdf/2602.09084)\]\[[project page](https://agent-banana.github.io/)\]\[[code](https://github.com/taco-group/agent-banana)\]|TAMU|
+|2026|ArXiv|**PhotoAgent**: Agentic Photo Editing with Exploratory Visual Aesthetic Planning|\[[paper](https://arxiv.org/abs/2602.22809)\]\[[project page](https://mdyao.github.io/PhotoAgent/)\]\[[code](https://github.com/mdyao/PhotoAgent)\]|MMLab, CUHK|
+
+
+### Image Super-Resolution
+|Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
+|:---:|:----:|:----:|:----:|:----:|
+|2025|NIPS|**4KAgent**: Agentic Any Image to 4K Super-Resolution|\[[paper](https://arxiv.org/pdf/2507.07105)\]\[[project page](https://4kagent.github.io/)\]\[[code](https://github.com/taco-group/4KAgent)\]|TAMU|
+
 
 ### Video Restoration
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
 |:---:|:----:|:----:|:----:|:----:|
-|2026|ArXiv|**VQ-Jarvis: Retrieval-Augmented Video Restoration Agent with Sharp Vision and Fast Thought**|\[[paper](https://arxiv.org/pdf/2603.22998)\]|PKU|
+|2026|ArXiv|**VQ-Jarvis**: Retrieval-Augmented Video Restoration Agent with Sharp Vision and Fast Thought|\[[paper](https://arxiv.org/pdf/2603.22998)\]|PKU|
 
 ### Image Retouching
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
