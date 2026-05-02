@@ -33,6 +33,7 @@ Image restoration and super-resolution have witnessed significant advancements w
 |2026|ArXiv|**TIR-AGENT:** Training an Explorative and Efficient Agent for Image Restoration|\[[paper](https://arxiv.org/pdf/2603.27742)\]|THU|
 |2026|TIP|**IAMAgent:** Toward an Interactive and Adaptive Multi-Agent System for Image Restoration|\[[paper](https://ieeexplore.ieee.org/document/11433514)\]|HFUT|
 |2025|ICLR|**AgenticIR:** An Intelligent Agentic System for Complex Image Restoration Problems|\[[paper](https://arxiv.org/abs/2410.17809)\]\[[project page](https://kaiwen-zhu.github.io/research/agenticir)\]\[[code](https://github.com/Kaiwen-Zhu/AgenticIR)\]|SJTU|
+|2025|ArXiV|**Q-Agent**: Quality-Driven Chain-of-Thought Image Restoration Agent through Robust Multimodal Large Language Model|\[[paper](https://arxiv.org/abs/2504.07148))\]|SJTU|
 |2024|NIPS|**RestoreAgent:** Autonomous Image Restoration Agent via Multimodal Large Language Models|\[[paper](https://neurips.cc/virtual/2024/poster/93068#:~:text=RestoreAgent)\]\[[project page](https://haoyuchen.com/RestoreAgent)\]|HKUST(GZ)|
 > **Note:** Institutions are abbreviated for table formatting (e.g., SJTU for Shanghai Jiao Tong University, PKU for Peking University).
 ### Image Editing
