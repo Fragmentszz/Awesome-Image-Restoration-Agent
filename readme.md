@@ -32,11 +32,15 @@ Image restoration and super-resolution have witnessed significant advancements w
 |2026|IJCV|**Multi-Agent Image Restoration**|\[[paper](https://arxiv.org/pdf/2503.09403)\]\[[project page](https://villa.jianzhang.tech/publication/200604/)\]|PKU|
 |2026|CVPR|**Hybrid Agents for Image Restoration**|\[[paper](https://arxiv.org/pdf/2503.10120)\]|USTC|
 |2026|ArXiv|**Derain-Agent**: A Plug-and-Play Agent Framework for Rainy Image Restoration|\[[paper](https://arxiv.org/pdf/2603.11866)\]|HIT|
+|2026|CVPR|**FAPE-IR**: Frequency-Aware Planning and Execution Framework for All-in-One Image Restoration|\[[paper](https://arxiv.org/abs/2511.14099)\]\[[code](https://github.com/Programmergg/FAPE-IR/tree/main)\]|TJU|
 |2026|CVPR|**EpiAgent**: An Agent-Centric System for Ancient Inscription Restoration|\[[paper](https://arxiv.org/pdf/2604.09367)\]\[[code](https://github.com/blackprotoss/EpiAgent)\]|SEU|
 |2026|ArXiv|**TIR-AGENT:** Training an Explorative and Efficient Agent for Image Restoration|\[[paper](https://arxiv.org/pdf/2603.27742)\]|THU|
 |2026|TIP|**IAMAgent:** Toward an Interactive and Adaptive Multi-Agent System for Image Restoration|\[[paper](https://ieeexplore.ieee.org/document/11433514)\]|HFUT|
+|2026|Journal of Integration Technology|From specialized models to agentic systems: progress and challenges of agents in image restoration|\[[paper](https://jcjs.siat.ac.cn/article/doi/10.12146/j.issn.2095-3135.20251115001)\]|suat|
 |2025|ICLR|**AgenticIR:** An Intelligent Agentic System for Complex Image Restoration Problems|\[[paper](https://arxiv.org/abs/2410.17809)\]\[[project page](https://kaiwen-zhu.github.io/research/agenticir)\]\[[code](https://github.com/Kaiwen-Zhu/AgenticIR)\]|SJTU|
 |2025|ArXiV|**Q-Agent**: Quality-Driven Chain-of-Thought Image Restoration Agent through Robust Multimodal Large Language Model|\[[paper](https://arxiv.org/abs/2504.07148))\]|SJTU|
+|2025|ArXiV|**SimpleCall**: A Lightweight Image Restoration Agent in Label-Free Environments with MLLM Perceptual Feedback|\[[paper](https://arxiv.org/html/2512.18599v1))\]|Amazon|
+|2025|CVPR|**JarvisIR**: Elevating Autonomous Driving Perception with Intelligent Image Restoration|\[[paper](https://arxiv.org/abs/2504.04158))\]\[[code](https://github.com/LYL1015/JarvisIR)\]|XMU|
 |2024|NIPS|**RestoreAgent:** Autonomous Image Restoration Agent via Multimodal Large Language Models|\[[paper](https://neurips.cc/virtual/2024/poster/93068#:~:text=RestoreAgent)\]\[[project page](https://haoyuchen.com/RestoreAgent)\]|HKUST(GZ)|
 > **Note:** Institutions are abbreviated for table formatting (e.g., SJTU for Shanghai Jiao Tong University, PKU for Peking University).
 ### Image Editing
@@ -69,6 +73,8 @@ Image restoration and super-resolution have witnessed significant advancements w
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
 |:---:|:----:|:----:|:----:|:----:|
 |2026|AAAI|**PerTouch**: VLM-Driven Agent for Personalized and Semantic Image Retouching|\[[paper](https://arxiv.org/pdf/2511.12998)\]\[[project page](https://auroral703.github.io/PerTouch/)\]\[[code](https://github.com/Auroral703/PerTouch)\]|NKU|
+|2025|Arxiv|**Position**: Agentic Systems Constitute a Key Component of Next-Generation Intelligent Image Processing|\[[paper](https://arxiv.org/pdf/2505.16007v1)\]|INSAIT|
+
 
 ### Image Quality Assessment (IQA)
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
