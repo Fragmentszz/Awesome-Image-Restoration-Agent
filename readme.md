@@ -19,6 +19,7 @@ A curated list of awesome papers, codes, and resources exploring the intersectio
     - [Video Restoration](#video-restoration)
     - [Computational Photography](#computational-photography)
     - [Image Retouching](#image-retouching)
+    - [Image Quality Assessment (IQA)](#image-quality-assessment)
   - [🤝 Contributing](#-contributing)
   - [📄 License](#-license)
 
@@ -76,7 +77,7 @@ Image restoration and super-resolution have witnessed significant advancements w
 |2025|Arxiv|**Position**: Agentic Systems Constitute a Key Component of Next-Generation Intelligent Image Processing|\[[paper](https://arxiv.org/pdf/2505.16007v1)\]|INSAIT|
 
 
-### Image Quality Assessment (IQA)
+### Image Quality Assessment
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
 |:---:|:----:|:----:|:----:|:----:|
 |2026|ArXiv|**ME-IQA**: Memory-Enhanced Image Quality Assessment via Re-Ranking|\[[paper](https://arxiv.org/abs/2603.20785)\]|CityU|
