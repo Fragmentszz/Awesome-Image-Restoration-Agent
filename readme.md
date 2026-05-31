@@ -33,6 +33,8 @@ Image restoration and super-resolution have witnessed significant advancements w
 |2026|IJCV|**Multi-Agent Image Restoration**|\[[paper](https://arxiv.org/pdf/2503.09403)\]\[[project page](https://villa.jianzhang.tech/publication/200604/)\]|PKU|
 |2026|CVPR|**Hybrid Agents for Image Restoration**|\[[paper](https://arxiv.org/pdf/2503.10120)\]|USTC|
 |2026|ArXiv|**Derain-Agent**: A Plug-and-Play Agent Framework for Rainy Image Restoration|\[[paper](https://arxiv.org/pdf/2603.11866)\]|HIT|
+|2026|ArXiv|**OPERA**: An Agent for Image Restoration with End-to-End Joint Planning-Execution Optimization|\[[paper](https://arxiv.org/pdf/2605.22104)\]\[[code](https://github.com/xsyshuishui/Opera)\]|HIT|
+|2026|ArXiv|**EvoIR-Agent**: Self-Evolving Image Restoration Agentic System via Experience-Driven Learning|\[[paper](https://arxiv.org/pdf/2605.22208)\]\[[code](https://github.com/rightleft-123/EvoIRAgent)\]|SYSU|
 |2026|CVPR|**FAPE-IR**: Frequency-Aware Planning and Execution Framework for All-in-One Image Restoration|\[[paper](https://arxiv.org/abs/2511.14099)\]\[[code](https://github.com/Programmergg/FAPE-IR/tree/main)\]|TJU|
 |2026|CVPR|**EpiAgent**: An Agent-Centric System for Ancient Inscription Restoration|\[[paper](https://arxiv.org/pdf/2604.09367)\]\[[code](https://github.com/blackprotoss/EpiAgent)\]|SEU|
 |2026|ArXiv|**TIR-AGENT:** Training an Explorative and Efficient Agent for Image Restoration|\[[paper](https://arxiv.org/pdf/2603.27742)\]|THU|
