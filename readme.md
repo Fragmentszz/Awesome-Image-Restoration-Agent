@@ -31,6 +31,7 @@ Image restoration and super-resolution have witnessed significant advancements w
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
 |:---:|:----:|:----:|:----:|:----:|
 |2026|IJCV|**Multi-Agent Image Restoration**|\[[paper](https://arxiv.org/pdf/2503.09403)\]\[[project page](https://villa.jianzhang.tech/publication/200604/)\]|PKU|
+|2026|ECCV|Self-Evolving Agentic Image Restoration via Deliberate Planning and Intuitive Execution|\[[paper](https://arxiv.org/abs/2606.28971)\]|ISCAS|
 |2026|CVPR|**Hybrid Agents for Image Restoration**|\[[paper](https://arxiv.org/pdf/2503.10120)\]|USTC|
 |2026|ArXiv|**Derain-Agent**: A Plug-and-Play Agent Framework for Rainy Image Restoration|\[[paper](https://arxiv.org/pdf/2603.11866)\]|HIT|
 |2026|ArXiv|**OPERA**: An Agent for Image Restoration with End-to-End Joint Planning-Execution Optimization|\[[paper](https://arxiv.org/pdf/2605.22104)\]\[[code](https://github.com/xsyshuishui/Opera)\]|HIT|
@@ -67,6 +68,8 @@ Image restoration and super-resolution have witnessed significant advancements w
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
 |:---:|:----:|:----:|:----:|:----:|
 |2026|ArXiv|**VQ-Jarvis**: Retrieval-Augmented Video Restoration Agent with Sharp Vision and Fast Thought|\[[paper](https://arxiv.org/pdf/2603.22998)\]|PKU|
+|2026|CVPR|Evolutionary Multi-Agent Collaboration for Real-World Video Face Restoration|\[[paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Tang_Evolutionary_Multi-Agent_Collaboration_for_Real-World_Video_Face_Restoration_CVPRF_2026_paper.pdf)\]\[[project page](https://bbuniverse.github.io/MA-VFR//)\]|HiT|
+
 
 ### Computational Photography
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
