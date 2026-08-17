@@ -125,5 +125,6 @@ Join our QQ group: **1056914561**
   <br>
   <sub>Scan the QR code or search for the group number to join.</sub>
 </p>
+
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
